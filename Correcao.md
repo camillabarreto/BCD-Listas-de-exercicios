@@ -9,3 +9,12 @@
  - Data de entrega: 11/12/2020
  - Nota: 9
 
+#### Lista 02
+
+- Correção:
+  - Exercício 2 - `idEmpregado` deveria fazer parte da chave primária de `Dependente`.
+  - Exercício 4 - Se a chave primária for somente `data` não seria possível ter dois alunos assistindo aula no mesmo dia.
+  - Exercício 5 - Está faltando colunas nas chaves primárias das entidades que possuem relacionamento identificador.
+- Nota: 9
+
+
