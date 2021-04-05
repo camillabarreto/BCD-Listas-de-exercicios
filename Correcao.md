@@ -17,4 +17,11 @@
   - Exercício 5 - Está faltando colunas nas chaves primárias das entidades que possuem relacionamento identificador.
 - Nota: 9
 
+#### Lista 03
+
+- Correção:
+  - Exercício 9: 
+    - As datas de check-in e check-out estão relacionadas com a hospedagem e não com o hóspede
+- Nota: 10
+
 
